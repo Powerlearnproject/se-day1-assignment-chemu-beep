@@ -53,4 +53,4 @@ It is important in getting the best responses.
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 "Write an email to my boss"
 Better- Draft an email to my boss, this is the topic. Include a clear reference, an introduction, and conclusion. "
-One gets better and coincise responses.
+One gets better and coincise responses. 
