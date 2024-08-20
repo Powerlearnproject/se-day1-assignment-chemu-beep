@@ -6,7 +6,7 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering refers to applying engineering principles in designing, and development of software products.
-It is important in creation of software applications such as Windows and Facebook.
+It is important in creation of software applications such as Windows and Facebook. 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 Software Engineering has evolved from the 1940s to date. Key developers include Alan Turing, Grace Hopper
